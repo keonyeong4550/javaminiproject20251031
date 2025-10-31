@@ -43,7 +43,7 @@ public class ColorGame {
 
             if (userInput.equals(shortCode.toString())) {
                 System.out.println("축하합니다! 당첨입니다!");
-                System.out.println("아래 번호로 당첨 메시지를 남겨주세요: 010-5254-4550");
+                System.out.println("아래 번호로 당첨 메시지를 남겨주세요: 010-0000-0000");
                 isWin = true;
                 break;
             } else {
@@ -54,7 +54,7 @@ public class ColorGame {
         if (!isWin) {
             System.out.println("--------------------------------------------");
             System.out.println("3회 모두 탈락했습니다.");
-            System.out.println("번호 010-5254-4550 으로 선물을 보내주세요!");
+            System.out.println("번호 010-0000-0000 으로 카톡선물을 보내주세요!");
         }
     }
 }
