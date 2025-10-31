@@ -36,6 +36,7 @@ public class AccountBook implements Manageable {
             System.out.println("숫자 형식 오류입니다. 다시 입력해주세요.\n");
         } catch (Exception e) {
             System.out.println("오류 발생: " + e.getMessage());
+            e.printStackTrace();
         }
     }
 
