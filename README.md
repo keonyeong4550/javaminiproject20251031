@@ -50,7 +50,9 @@
 
 <br><br>
 ## #.6 적용기술
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  ![openAI](https://img.shields.io/badge/openAI-API-00A67E?logo=openai&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![openAI](https://img.shields.io/badge/openAI-353740?style=for-the-badge&logo=openai&logoColor=white)
 
 <br><br>
 ## #.7 상속과 인터페이스
