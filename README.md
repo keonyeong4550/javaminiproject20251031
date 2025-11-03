@@ -56,6 +56,8 @@
 ![SourceTree](https://img.shields.io/badge/SourceTree-2684FF?style=for-the-badge&logo=sourcetree&logoColor=white)
 ![ShareX](https://img.shields.io/badge/ShareX-E6B800?style=for-the-badge&logo=sharex&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <br><br>
 ## #.7 상속과 인터페이스
