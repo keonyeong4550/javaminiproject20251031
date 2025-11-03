@@ -50,14 +50,14 @@
 
 <br><br>
 ## #.7 상속과 인터페이스
-- 상속
-중복제거 → [date],[description],[amount] 같은 공통 속성을 부모 [Transaction] 에 한 번만 정의
-다형성 활용 → List<Transaction> 하나로 수입/지출 을 동시에 다룰 수 있다
+- 상속<br>
+중복제거 → [date],[description],[amount] 같은 공통 속성을 부모 [Transaction] 에 한 번만 정의<br>
+다형성 활용 → List<Transaction> 하나로 수입/지출 을 동시에 다룰 수 있다<br>
 일관된 인터페이스 → showTransaction() 같은 모든 거래를 같은 방식으로 처리 가능
-
-- 인터페이스
-낮은응집도 → 다른 클래스가 Managable 타입으로 AccountBook을 다룰 수 있도록 해서, 코드의 의존성을 줄임
-기능의 표준화 → 가계부하면 가져야할 기능들을 코드로 표준적으로 표현
+<br><br>
+- 인터페이스<br>
+낮은응집도 → 다른 클래스가 Managable 타입으로 AccountBook을 다룰 수 있도록 해서, 코드의 의존성을 줄임<br>
+기능의 표준화 → 가계부하면 가져야할 기능들을 코드로 표준적으로 표현<br>
 
 <br><br>
 ## #.8 프로젝트 개발 후기
