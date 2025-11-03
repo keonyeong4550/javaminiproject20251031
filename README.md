@@ -11,6 +11,7 @@
 
 직장을 떠나고 시작한 직업훈련 기간중에 배운 자바만을 가지고 나의 회계업무 경험을 더해서 생각만 했던 회계프로그램 로직을 구현해 보는 것이 나의 자바 기술 활용의 첫 걸음이라고 생각한다. 
 프로그램으로는 간단해 보이지만 이 프로젝트에는 **try-catch문, collection문 extends(상속) 과 interface 구현**  ****을 담았다. 프로젝트를 손수 만듦으로써 배웠던 스킬을 익히고 다음 단계로 넘어가기 위한 준비과정이라고 생각한다. 노벨상을 연속으로 받고 있는 구글을 보면, 업무에 집중만은 하지 않는다. 업무 외에 창의적인 **“딴짓”** 을 권장하는 분위기이고, 그러는 의미에서 회계 프로그램과 간단한 게임을 접목해 봤다. 
+
 <br><br>
 ## #.1 프로젝트 환경구성
 
@@ -22,12 +23,14 @@
 4. **GitHub 원격 저장소(origin) 연결 후 Push**
 
 이 과정을 거쳐서 깃허브에 성공적으로 저장되는 것을 확인했다.
+
 <br><br>
 ## #.2  클래스 다이어그램
 ![Image](https://github.com/user-attachments/assets/2737af63-f099-4c1e-a0f8-d9e696a5284d)
 <br><br>
 ## #.3 구현
 ![Image](https://github.com/user-attachments/assets/0fb46f54-6ff6-4455-8925-e3a92bf9e2fe)
+
 <br><br>
 ## #.4 오류 정정
 회계 프로그램을 숫자 위주로 짰고, 한글로 입력 했는데, NumberFormatException 이 발생하였다.
@@ -35,12 +38,15 @@
 
 catch 문에 NumberFormatException 처리를 하였다. </br>
 <img width="495" height="43" alt="Image" src="https://github.com/user-attachments/assets/af3dd208-4056-4028-a6a7-b1375638951e" />
+
 <br><br>
 ## #.5 잔액 출력 부분 구현 코드
 <img width="743" height="73" alt="Image" src="https://github.com/user-attachments/assets/d57a8991-23c9-44e9-baca-96e7ceadf58c" />
+
 <br><br>
 ## #.6 적용기술
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 <br><br>
 ## #.7 프로젝트 개발 후기
 ### 처음부터 모든 과정을 진행하면서..
