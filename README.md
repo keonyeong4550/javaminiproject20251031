@@ -32,6 +32,7 @@
 ## #.4 오류 정정
 회계 프로그램을 숫자 위주로 짰고, 한글로 입력 했는데, NumberFormatException 이 발생하였다.
 <img width="752" height="131" alt="Image" src="https://github.com/user-attachments/assets/73590fc7-688a-48bb-aed0-51ac75415844" />
+
 catch 문에 NumberFormatException 처리를 하였다. 
 <img width="495" height="43" alt="Image" src="https://github.com/user-attachments/assets/af3dd208-4056-4028-a6a7-b1375638951e" />
 
