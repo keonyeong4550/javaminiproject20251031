@@ -41,8 +41,12 @@
 <img width="439" height="365" alt="Image" src="https://github.com/user-attachments/assets/3ef7ef4a-d1cc-4e90-a4e3-19e6f5920ed6" />
 
 <br><br>
-## #.5 잔액 출력 부분 구현 코드
+## #.5-1 잔액 출력 부분 구현 코드
 <img width="743" height="73" alt="Image" src="https://github.com/user-attachments/assets/d57a8991-23c9-44e9-baca-96e7ceadf58c" />
+<br>
+
+## #.5-2 거래 추가 후 구현 코드
+<img width="651" height="50" alt="Image" src="https://github.com/user-attachments/assets/0d9db1bd-2f00-4033-9698-36766a2805a6" />
 
 <br><br>
 ## #.6 적용기술
