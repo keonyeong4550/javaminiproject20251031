@@ -32,12 +32,8 @@
 ![Image](https://github.com/user-attachments/assets/0fb46f54-6ff6-4455-8925-e3a92bf9e2fe)
 
 <br><br>
-## #.4 오류 정정
-회계 프로그램을 숫자 위주로 짰고, 한글로 입력 했는데, NumberFormatException 이 발생하였다.
-<img width="752" height="131" alt="Image" src="https://github.com/user-attachments/assets/73590fc7-688a-48bb-aed0-51ac75415844" />
-
-catch 문에 NumberFormatException 처리를 하였다. </br>
-<img width="495" height="43" alt="Image" src="https://github.com/user-attachments/assets/af3dd208-4056-4028-a6a7-b1375638951e" />
+## #.4 Exception 클래스의 관리
+<img width="439" height="365" alt="Image" src="https://github.com/user-attachments/assets/3ef7ef4a-d1cc-4e90-a4e3-19e6f5920ed6" />
 
 <br><br>
 ## #.5 잔액 출력 부분 구현 코드
