@@ -39,3 +39,11 @@ catch 문에 NumberFormatException 처리를 하였다. </br>
 ## #.5 잔액 출력 부분 구현 코드
 <img width="743" height="73" alt="Image" src="https://github.com/user-attachments/assets/d57a8991-23c9-44e9-baca-96e7ceadf58c" />
 
+## #.6 적용기술
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+## #.7 프로젝트 개발 후기
+### 처음부터 모든 과정을 진행하면서..
+처음부터 모든 과정을 진행하면서, 하나의 프로젝트가 나오기까지, 지식의 깊이에 따라 프로젝트 결과가 달라진다는 것을 알았다. <strong>노력은 배반 하지 않는다.</strong>는 점을 들어, 언젠가는 노력의 결실을 맺겠다는 일념으로 프로젝트에 열심히 임했다. 개인 프로젝트를 자바로 구현하면서, 참 재미있는 게임도 만들어보고, 과정도 하나하나 기록하면서, 개발자로서 소양을 조금씩 갖춰나가는 기분으로, 매일매일 성장하는 느낌으로 양일간 프로젝트를 하였고, 그 마무리를 짓는다. 더 나은 기획과 더 나은 구현을 위해, 더 많이 그리고 깊이 알아야할 지식들이 우리 일상생활에 재미와 의미를 담아있길 바라며, 더 많이 노력해야할것을 알았다. 
+
