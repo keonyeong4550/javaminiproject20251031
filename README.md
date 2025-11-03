@@ -29,7 +29,7 @@
 <img width="1031" height="554" alt="Image" src="https://github.com/user-attachments/assets/415484cf-a1a4-4e05-aea8-6bfcf1209ef3" />
 <br><br>
 ## #.3 구현
-![Image](https://github.com/user-attachments/assets/0fb46f54-6ff6-4455-8925-e3a92bf9e2fe)
+![Image](https://github.com/user-attachments/assets/a6d1d95d-d3db-472a-94c0-45ddee7feef5)
 
 <br><br>
 ## #.4 Exception 클래스의 관리
