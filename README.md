@@ -48,7 +48,18 @@ catch 문에 NumberFormatException 처리를 하였다. </br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <br><br>
-## #.7 프로젝트 개발 후기
+## #.7 상속과 인터페이스
+- 상속
+중복제거 → [date],[description],[amount] 같은 공통 속성을 부모 [Transaction] 에 한 번만 정의
+다형성 활용 → List<Transaction> 하나로 수입/지출 을 동시에 다룰 수 있다
+일관된 인터페이스 → showTransaction() 같은 모든 거래를 같은 방식으로 처리 가능
+
+- 인터페이스
+낮은응집도 → 다른 클래스가 Managable 타입으로 AccountBook을 다룰 수 있도록 해서, 코드의 의존성을 줄임
+기능의 표준화 → 가계부하면 가져야할 기능들을 코드로 표준적으로 표현
+
+<br><br>
+## #.8 프로젝트 개발 후기
 ### 처음부터 모든 과정을 진행하면서..
 처음부터 모든 과정을 진행하면서, 하나의 프로젝트가 나오기까지, 지식의 깊이에 따라 프로젝트 결과가 달라진다는 것을 알았다. <strong>노력은 배반 하지 않는다.</strong>는 점을 들어, 언젠가는 노력의 결실을 맺겠다는 일념으로 프로젝트에 열심히 임했다. 개인 프로젝트를 자바로 구현하면서, 참 재미있는 게임도 만들어보고, 과정도 하나하나 기록하면서, 개발자로서 소양을 조금씩 갖춰나가는 기분으로, 매일매일 성장하는 느낌으로 양일간 프로젝트를 하였고, 그 마무리를 짓는다. 더 나은 기획과 더 나은 구현을 위해, 더 많이 그리고 깊이 알아야할 지식들이 우리 일상생활에 재미와 의미를 담아있길 바라며, 더 많이 노력해야할것을 알았다. 
 
