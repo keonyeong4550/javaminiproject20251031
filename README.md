@@ -23,11 +23,17 @@
 
 이 과정을 거쳐서 깃허브에 성공적으로 저장되는 것을 확인했다.
 
+
+
 ## #.2  클래스 다이어그램
 ![Image](https://github.com/user-attachments/assets/2737af63-f099-4c1e-a0f8-d9e696a5284d)
 
+
+
 ## #.3 구현
 ![Image](https://github.com/user-attachments/assets/0fb46f54-6ff6-4455-8925-e3a92bf9e2fe)
+
+
 
 ## #.4 오류 정정
 회계 프로그램을 숫자 위주로 짰고, 한글로 입력 했는데, NumberFormatException 이 발생하였다.
@@ -36,11 +42,16 @@
 catch 문에 NumberFormatException 처리를 하였다. </br>
 <img width="495" height="43" alt="Image" src="https://github.com/user-attachments/assets/af3dd208-4056-4028-a6a7-b1375638951e" />
 
+
+
 ## #.5 잔액 출력 부분 구현 코드
 <img width="743" height="73" alt="Image" src="https://github.com/user-attachments/assets/d57a8991-23c9-44e9-baca-96e7ceadf58c" />
 
+
+
 ## #.6 적용기술
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 
 
 ## #.7 프로젝트 개발 후기
