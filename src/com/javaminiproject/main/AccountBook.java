@@ -6,10 +6,11 @@ import java.util.Scanner;
 public class AccountBook implements Manageable {
 	private ArrayList<Transaction> transactions = new ArrayList<>();
     private Scanner sc = new Scanner(System.in);
-
+    
     @Override
     public void addTransaction() {
         try {
+           
             System.out.print("날짜 입력 (예: 2025-10-30): ");
             String date = sc.nextLine().trim();
             System.out.print("내용 입력: ");
@@ -31,7 +32,7 @@ public class AccountBook implements Manageable {
 
             transactions.add(t);
             System.out.println("거래가 추가되었습니다.\n");
-
+    
         } catch (NumberFormatException e) {
             System.out.println("숫자 형식 오류입니다. 다시 입력해주세요.\n");
         } catch (Exception e) {
@@ -51,6 +52,7 @@ public class AccountBook implements Manageable {
             System.out.println(t);
         }
         System.out.println("=====================\n");
+   
     }
 
     @Override

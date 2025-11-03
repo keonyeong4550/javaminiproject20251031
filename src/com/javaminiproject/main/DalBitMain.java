@@ -8,16 +8,19 @@ public class DalBitMain {
 		  Scanner sc = new Scanner(System.in);
 	        AccountBook accountBook = new AccountBook();
 	        ColorGame colorGame = new ColorGame();
-
+	        QuoteManager quoteManager = new QuoteManager();
 	        while (true) {
 	            try {
+	            	 System.out.println("\n------------------------------------------");
+		                quoteManager.printRandomQuote();
 	                System.out.println("\n==== DalBit 통합 프로그램 ====");
 	                System.out.println("1. 달빛 가계부");
 	                System.out.println("2. 색깔 게임");
 	                System.out.println("3. 종료");
 	                System.out.print("메뉴 선택: ");
+	               
 	                int choice = Integer.parseInt(sc.nextLine());
-
+	                
 	                switch (choice) {
 	                    case 1 -> {
 	                        while (true) {
