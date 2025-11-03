@@ -35,6 +35,6 @@
 catch 문에 NumberFormatException 처리를 하였다. 
 <img width="495" height="43" alt="Image" src="https://github.com/user-attachments/assets/af3dd208-4056-4028-a6a7-b1375638951e" />
 
-## #.5 잔액 출력 부분 구현
+## #.5 잔액 출력 부분 구현 코드
 <img width="743" height="73" alt="Image" src="https://github.com/user-attachments/assets/d57a8991-23c9-44e9-baca-96e7ceadf58c" />
 
