@@ -1,8 +1,8 @@
 package com.javaminiproject.main;
 
 class Income extends Transaction{
-	   public Income(String date, String description, int amount) {
-	        super(date, description, amount);
+	   public Income(String date, String description, int amount, String emotion) {
+	        super(date, description, amount,emotion);
 	    }
 
 	    @Override
