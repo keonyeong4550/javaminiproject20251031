@@ -1,6 +1,5 @@
 package com.javaminiproject.main;
 
-import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -8,16 +7,18 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+import exception.FileLoadException;
+
 public class QuoteManager {
 	  private List<String> quotes = new ArrayList<>();
 
-	    public QuoteManager() {
+	    public QuoteManager() throws FileLoadException {
 	        try {
 	            Path path = Path.of(System.getProperty("user.dir"), "quotes.txt");
 	            quotes = Files.readAllLines(path, StandardCharsets.UTF_8);
 //	            System.out.println("✅ 명언 파일 로드 완료 (" + quotes.size() + "줄)");
-	        } catch (IOException e) {
-	            System.out.println("⚠ 명언 파일을 불러오지 못했습니다: " + e.getMessage());
+	        } catch (Exception e) {
+	        	 throw new FileLoadException("quotes.txt를 불러오지 못했습니다.");
 	        }
 	    }
 

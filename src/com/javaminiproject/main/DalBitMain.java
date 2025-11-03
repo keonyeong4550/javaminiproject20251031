@@ -2,9 +2,11 @@ package com.javaminiproject.main;
 
 import java.util.Scanner;
 
+import exception.FileLoadException;
+
 public class DalBitMain {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws FileLoadException {
 		  Scanner sc = new Scanner(System.in);
 	        AccountBook accountBook = new AccountBook();
 	        ColorGame colorGame = new ColorGame();
