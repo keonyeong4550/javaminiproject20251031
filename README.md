@@ -34,6 +34,10 @@
 
 <br><br>
 ## #.4 Exception 클래스의 관리
+- 회계프로그램을 숫자로 구현했을때, 문자로 입력시 예외 발생
+  <img width="752" height="131" alt="Image" src="https://github.com/user-attachments/assets/9ac253e0-8cae-4a65-8c51-f7b39104a0e1" />
+  <br>
+- <strong>예외처리 클래스로 처리</strong>
 <img width="439" height="365" alt="Image" src="https://github.com/user-attachments/assets/3ef7ef4a-d1cc-4e90-a4e3-19e6f5920ed6" />
 
 <br><br>
