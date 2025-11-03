@@ -26,7 +26,7 @@
 
 <br><br>
 ## #.2  클래스 다이어그램
-<img width="1077" height="579" alt="Image" src="https://github.com/user-attachments/assets/dd43ae59-8545-4b43-92b8-49dd59718264" />
+<img width="1031" height="554" alt="Image" src="https://github.com/user-attachments/assets/415484cf-a1a4-4e05-aea8-6bfcf1209ef3" />
 <br><br>
 ## #.3 구현
 ![Image](https://github.com/user-attachments/assets/0fb46f54-6ff6-4455-8925-e3a92bf9e2fe)
